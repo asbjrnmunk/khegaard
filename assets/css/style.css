@@ -101,13 +101,16 @@
 @media only screen and (max-width : 480px) {
   .heading_text {
     position: absolute;
-    top: 160px;
+    top: 220px;
   }
 }
 
 /* Custom, iPhone Retina */
 @media only screen and (max-width : 320px) {
-
+  .heading_text {
+    position: absolute;
+    top: 170px;
+  }
 }
 
 .mouse {
