@@ -80,6 +80,10 @@
 
 /* Small Devices, Tablets */
 @media only screen and (max-width : 768px) {
+  .heading {
+    font-size: 30px !important;
+  }
+
   .heading_text {
     position: absolute;
     top: 200px;
@@ -95,7 +99,10 @@
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
-
+  .heading_text {
+    position: absolute;
+    top: 160px;
+  }
 }
 
 /* Custom, iPhone Retina */
