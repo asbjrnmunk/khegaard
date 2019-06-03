@@ -101,7 +101,7 @@
 @media only screen and (max-width : 480px) {
   .heading_text {
     position: absolute;
-    top: 220px;
+    top: 195px;
   }
 }
 
@@ -109,7 +109,7 @@
 @media only screen and (max-width : 320px) {
   .heading_text {
     position: absolute;
-    top: 170px;
+    top: 160px;
   }
 }
 
